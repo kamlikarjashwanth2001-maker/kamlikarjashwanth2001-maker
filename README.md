@@ -1,6 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=+%24+whoami;Jashwanth+Kamlikar;MuleSoft+Integration+Developer;%24+cat+skills.json+%7C+grep+mulesoft;%22MuleSoft%22%2C+%22DataWeave%22%2C+%22REST+APIs%22;%24+status+--open-to-work)](https://git.io/typing-svg)
+[![Portfolio](https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/main/banner.png)](https://jashwanth-protfolio.netlify.app/)
+
+> 👆 *click to visit live portfolio*
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=+%24+whoami+--verbose;%E2%96%BA+Jashwanth+Kamlikar+%7C+MuleSoft+Developer;%E2%96%BA+API-led+Connectivity+%7C+Anypoint+Platform;%E2%96%BA+DataWeave+2.0+%7C+REST+%7C+RAML;%E2%96%BA+Hyderabad%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+status.txt;%E2%9C%85+Open+to+MuleSoft+%26+Integration+projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,6 +28,23 @@ $ cat about.txt
 $ echo $STATUS
   ✅ Open to MuleSoft & Integration projects
 ```
+
+---
+
+## `~/certifications`
+
+<div align="center">
+
+[![MuleSoft Certified](https://img.shields.io/badge/MuleSoft_Certified-Developer_Level_1-00A1DF?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)
+[![Anypoint Platform](https://img.shields.io/badge/Anypoint_Platform-Integration_Associate-7C3AED?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamlikarjashwanth2001-maker&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -90,6 +117,16 @@ Deployed live on Netlify.
 
 ---
 
+## `~/contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/output/github-snake.svg" />
+</picture>
+
+---
+
 ## `~/connect`
 
 ```bash
@@ -101,7 +138,7 @@ $ cat contacts.sh
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamlikarjashwanth)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Jash_5124)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamlikarjashwanth2001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://jashwanth-protfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jashwanth-protfolio.netlify.app/)
 
 </div>
 
@@ -116,13 +153,3 @@ $ echo "Good APIs are invisible — they just work. ⚡"
 ```
 
 </div>
-
----
-
-## `~/contributions`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kamlikarjashwanth2001-maker/kamlikarjashwanth2001-maker/output/github-snake.svg" />
-</picture>
